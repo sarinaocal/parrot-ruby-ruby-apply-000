@@ -10,7 +10,7 @@ end
 
 def parrot(phrase = "Pretty Bird!")
 
-puts "phrase, #{phrase}"
+puts phrase
 
 return phrase
 
