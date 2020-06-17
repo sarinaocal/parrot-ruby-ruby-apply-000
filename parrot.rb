@@ -12,6 +12,7 @@ def parrot(phrase = "Pretty Bird!")
 
 puts "phrase, #{phrase}"
 
+return phrase
 
 
 end
