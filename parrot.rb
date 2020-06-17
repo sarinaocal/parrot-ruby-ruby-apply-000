@@ -8,14 +8,13 @@ return "Squawk!"
   
 end
 
-def parrot=(phrase)
+def parrot=(phrase = "Pretty Bird!")
 
-puts phrase 
+puts "phrase, #{phrase}"
 
-return phrase
 
 
 end
 
-
-
+def greeting(name = "Ruby programmer") puts "Hello, #{name}" end
+ ""
