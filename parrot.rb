@@ -6,5 +6,4 @@ puts "Squawk!"
 puts phrase
 return "Squawk!" + phrase
 return phrase
-
 end
